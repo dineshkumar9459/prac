@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 third
+=======
+some changes to be added
+third
+>>>>>>> main
